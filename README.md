@@ -1,5 +1,5 @@
 # Welcome to the Impossimaze
-Play the game <a href="https://berivera1.github.io/welcome-to-the-impossimaze/" target="_blank">here</a>.
+Play the game [here](https://berivera1.github.io/welcome-to-the-impossimaze/)){:target="_blank"}.
 ### The Purpose
 *Welcome to the Impossimaze* is a surrealist (or absurdist) puzzle game taking place in a 2D maze. The main goal of *The Impossimaze* is to balance out frustrating puzzles with (hopefully) comical dialogue. Going into the game, my original goal that I spoke to myself was "I want the player to say 'Fuck you, developer'" (but not 'fuck off, developer').
 ### The Goals
