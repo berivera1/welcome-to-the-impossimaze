@@ -1,5 +1,6 @@
 # Welcome to the Impossimaze
 ## Thurs, 25 | 02 | 2021
+Play the game (https://berivera1.github.io/welcome-to-the-impossimaze/ "here").
 ### What is the purpose of the project?
 *Welcome to the Impossimaze* is a surrealist (or absurdist) puzzle game taking place in a 2D maze. The main goal of *The Impossimaze* is to balance out frustrating puzzles with (hopefully) comical dialogue. Going into the game, my original goal that I spoke to myself was "I want the player to say 'Fuck you, developer'" (but not 'fuck off, developer').
 ### What do you hope to achieve with it, and how is your design well-suited to accomplishing these goals? (e.g. is it suspenseful, is it scary, is it a mystery, is it funny?  Is it interactive? Does it create immersion or agency? Once you have identified those goals, explain how you try to reach them?
